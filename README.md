@@ -81,8 +81,3 @@ A：纯 CSS 实现，零性能影响
 
 **Q：支持移动端吗？**  
 A：完全兼容 iOS/Android 版 Obsidian
-
----
-
-## 📜 协议许可
-[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
