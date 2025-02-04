@@ -34,7 +34,6 @@
 
 ## 🛠️ 安装指南
 
-
 1. 下载 
 2. 放入 Obsidian 库的 `.obsidian/snippets/` 目录
 3. 启用：设置 → 外观 → CSS 代码片段 → 开启
